@@ -10,3 +10,4 @@ while True:
                 screen, col, pos, 20, 5
             )
             py.display.update()
+# this is check
